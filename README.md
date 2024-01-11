@@ -11,7 +11,7 @@ Pertenecemos a una compañía que se dedica a vender teléfonos móviles y se re
 ![img-excel-test-2](https://github.com/pinedasud86/excel-test/assets/83896536/a2a37a6b-1770-410c-bd36-afed0c3ed6fb)
 
 ***
-Para resolver el ejercicio anterior, los datos se encuentran en 3 tablas (table1, table2, table3)
+Para resolver el ejercicio anterior, los datos se encuentran en 3 tablas (table1, table2, table3) contenidas en el archivo [**tablas.zip**](https://github.com/pinedasud86/excel-test/blob/main/tablas.zip)
 
 * Table1 contiene la fecha de la venta, el nombre del representante de ventas, el código del producto y la cantidad de unidades vendidas.<br>
 * Table2 tenemos la región a la cual pertenece cada uno de los representantes de ventas.<br>
